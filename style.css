@@ -6,3 +6,7 @@ background-color: aliceblue #cccccc;
 em,strong{
 color: darkmagenta;
 }
+
+.banner{
+    width: 100%;
+}
